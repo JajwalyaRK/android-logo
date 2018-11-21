@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/JajwalyaRK/pen/wEJKoq.
-Instructions from: http://thecodeplayer.com/walkthrough/css3-android-logo
+A Pen created at CodePen.io. <a href="https://codepen.io/JajwalyaRK/pen/wEJKoq">Demo</a>.
+<a href="http://thecodeplayer.com/walkthrough/css3-android-logo">Instructions</a>
 Build the Android logo using just HTML and CSS.
